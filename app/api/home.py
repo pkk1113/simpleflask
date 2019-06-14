@@ -5,5 +5,5 @@ class HomeAPI(Resource):
     URI = "/"
 
     def get(self):
-        return "Hello World"
+        return "Hello Ngnix"
 
